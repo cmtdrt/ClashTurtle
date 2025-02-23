@@ -8,4 +8,4 @@ Ce jeu à été réalisé dans le cadre d'un projet de groupe pour l'évaluation
 ### Stack technique
 L'entièreté du code à été réalisé en **Python** avec le module __pygame__
 
-Les 3 cartes ont été désignés par nos soins et créées avec l'outil **Tiled** grâce à des packs de textures venant de __itch.io__.
+Les 3 cartes ont été désignées par nos soins et créées avec l'outil **Tiled** grâce à des packs de textures venant de __itch.io__.
